@@ -27,10 +27,10 @@ browser. No real network equipment is configured.
 
 ### Running the training interface
 
-1. Download `net_practice.1.9.tgz` from the project page and extract it:
+1. Download the `net_practice` archive from the project page and extract it:
 
    ```sh
-   tar xzf net_practice.1.9.tgz
+   tar xzf net_practice.*.tgz
    ```
 
 2. Start the local web server:
