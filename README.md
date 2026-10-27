@@ -44,4 +44,5 @@ layers (switches work at layer 2, routers at layer 3).
 
 **Use of AI:** Claude was used to plan the study schedule and to draft this
 README and the `.gitignore`.
-All levels were solved by hand, without AI.
+It also worked through levels 1 to 10 with me and checked that each subnet
+split was correct.
